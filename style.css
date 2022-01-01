@@ -1,0 +1,48 @@
+.col {
+  border: 1px solid rgb(189, 86, 86);
+  gap: 2%;
+  padding: 10px;
+  flex: 1;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 2%;
+  margin-bottom: 10px;
+}
+.span-12 {
+  flex-basis: 100%;
+}
+.span-2 {
+  flex-basis: 15%;
+}
+.span-3 {
+  flex-basis: 23.5%;
+}
+.span-4 {
+  flex-basis: 32%;
+}
+.span-5 {
+  flex-basis: 40.5%;
+}
+.span-6 {
+  flex-basis: 49%;
+}
+.span-7 {
+  flex-basis: 57.5%;
+}
+.span-8 {
+  flex-basis: 66%;
+}
+.span-9 {
+  flex-basis: 76.5%;
+}
+.span-10 {
+  flex-basis: 83%;
+}
+.span-11 {
+  flex-basis: 91.5%;
+}
+.span-1 {
+  flex-basis: 6.5%;
+}
